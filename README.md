@@ -130,3 +130,9 @@ System Python is not touched.
 -Randomization of MAC Address
 -Mode: one Randomized mac per network 
 -Home network Exclusion from rule
+
+## Stable Baseline 
+** Status ** Stable and usable
+** Display Stack ** silentSDDM (SDDM) -> Hyprland(wayland)
+** Hardware ** HP Printer
+

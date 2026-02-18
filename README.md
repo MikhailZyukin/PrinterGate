@@ -124,3 +124,8 @@ System Python is not touched.
 - Default policy : deny incoming allow outgoing
 - SSH explicitly allowed
 - Enabled on boot
+
+## Network Anonimity (Basic)
+-Wifi managed via iwd
+-Randomization of MAC Address
+-Mode: one Randomized mac per network 

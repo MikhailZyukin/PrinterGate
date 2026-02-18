@@ -118,3 +118,9 @@ Installed:
 Rule:
 > All Python security tools must run in isolated virtual environments.  
 System Python is not touched.
+
+## Firewall 
+- Firewall : UFW (nftables backend)
+- Default policy : deny incoming allow outgoing
+- SSH explicitly allowed
+- Enabled on boot

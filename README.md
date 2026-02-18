@@ -129,3 +129,4 @@ System Python is not touched.
 -Wifi managed via iwd
 -Randomization of MAC Address
 -Mode: one Randomized mac per network 
+-Home network Exclusion from rule
